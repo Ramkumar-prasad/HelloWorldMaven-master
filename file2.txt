@@ -1,4 +1,0 @@
-this is my second git repo file
-this is second time update
-thsi is my third update
-this is the my last update
